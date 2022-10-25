@@ -1,4 +1,4 @@
-# Karuma
+# KARMA
 
 ![](karma.png)
 ![](.)
