@@ -30,7 +30,7 @@
  
 <a href = "https://guilded.gg/ItzmeKen-Realm"><img src="https://img.icons8.com/fluency/48/000000/guilded.png"/></a>
 
-<a href = "https://discord.gg/a3EjDW2Uu3"><img src="https://media.discordapp.net/attachments/1034345832855638046/1034465186389688361/icons8-discord-48.png.png"/></a>
+<a href = "https://discord.gg/a3EjDW2Uu3"><img src="https://icons8-discord-48.png"/></a>
 
 ## Please use this tool for educational purposes only
 
